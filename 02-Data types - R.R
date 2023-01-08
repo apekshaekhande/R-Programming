@@ -14,7 +14,7 @@
 
    # there are basically 5 types of Atomic vectors 
         # i)logical
-        # ii)Numaric
+        # ii)Numeric
         # iii)Character
         # iv)integer
         # v)Complex
