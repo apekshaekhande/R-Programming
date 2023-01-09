@@ -9,3 +9,11 @@
  
  R is case sensitive 
  
+#Data types
+# Following are the Datatypes in R
+            # 1)Vector
+            # 2)List
+            # 3)Matrix
+            # 4)Array
+            # 5)Factor
+            # 6)Data Frame
