@@ -9,11 +9,23 @@
  
  R is case sensitive 
  
-#Data types
-# Following are the Datatypes in R
-            # 1)Vector
-            # 2)List
-            # 3)Matrix
-            # 4)Array
-            # 5)Factor
-            # 6)Data Frame
+### Data types
+### Following are the Datatypes in R
+             1)Vector
+             2)List
+             3)Matrix
+             4)Array
+             5)Factor
+             6)Data Frame
+            
+ ### 1) Vector - contains elements of same type or class
+    To combine the list of items to a vector, use the c() Function and seperate the items by a comma.
+    Vector - basically of Two types 1)Atomic vector 2)Lists
+
+
+   ### there are basically 5 types of Atomic vectors 
+         i)logical
+         ii)Numeric
+         iii)Character
+         iv)integer
+         v)Complex
